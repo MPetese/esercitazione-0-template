@@ -2,30 +2,30 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi):Davide Ferretti Arr0sto, Marco Petese MPetese
 
 URL del repository condiviso:
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: entrambi
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: make
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: ./hello il programma stampa a schermo il messaggio richiesto
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: Il sorgente si può modificare, l'eseguibile no.
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: Hello, computational physics! questo è l'output, all'inizio il codice non fa niente
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione: inserimento funzione printf() per stampare su schermo.
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: 
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
