@@ -4,7 +4,7 @@ Gruppo: Davide Ferretti, Marco Petese
 
 Componenti (nome, cognome e username GitHub di entrambi):Davide Ferretti Arr0sto, Marco Petese MPetese
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/MPetese/esercitazione-0-template
 
 Chi ha usato la tastiera nello step 1 e nello step 2: 1-Marco Petese, 2-Davide Ferretti
 
@@ -47,16 +47,29 @@ Che cosa ho capito su testo, conversioni e stampa: abbiamo capito come passare d
 
 Previsioni per l'esecuzione con argomenti validi e per quella con `dodici`: in eco.c da 0 perché non è può convertire la stringa in eco2 da un messaggio di errore, per come la funzione leggi_intero è strutturata
 
-Contenuto di `eco.txt`, messaggi nel terminale e codici di uscita osservati:
+Contenuto di `eco.txt`, messaggi nel terminale e codici di uscita osservati: eco.txt contiene l'output di ./eco. Usando eco:
+"
+0
+ciao 12 3.500000
+0
+ciao 0 3.500000
+"
+Usando eco2 invece:
+"
+0
+ciao 12 3.500000
+Il secondo argomento deve essere un intero in base 10.
+2
+"
 
-Come un controllo automatico può riconoscere un errore:
+Come un controllo automatico può riconoscere un errore: come in eco2.c si controlla che l'ultimo carattere non sia quello di fine stringa "\0"
 
 ## Step 2 — Parametri e calcolo fisico
 
-Quando serve ricompilare e quando basta cambiare gli argomenti: serve ricompilare nel caso ci sia u errore nella scrittura del programma o per modificare l'algoritmo
+Quando serve ricompilare e quando basta cambiare gli argomenti: serve ricompilare nel caso ci sia un errore nella scrittura del programma o per modificare l'algoritmo. Se si vogliono cambiare solamente i parametri basta cambiare gli argomenti
 
 ## Step 2 — Git
 
-Come riconosco nella cronologia i commit dei due step:
+Come riconosco nella cronologia i commit dei due step: usando il comando "git log" e leggendo l'output del comando
 
-Come ho verificato che la versione finale sia presente su GitHub:
+Come ho verificato che la versione finale sia presente su GitHub: vado sul sito e controllo
